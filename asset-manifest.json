@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/grd-pro/static/css/main.47a28f0f.css",
+    "main.js": "/grd-pro/static/js/main.9f96a37d.js",
+    "static/js/787.d4aba7ab.chunk.js": "/grd-pro/static/js/787.d4aba7ab.chunk.js",
+    "static/media/img.png": "/grd-pro/static/media/img.ec394e2b7522750faaaa.png",
+    "static/media/11.webp": "/grd-pro/static/media/11.fbc1371456d9766a3d0c.webp",
+    "static/media/logo.svg": "/grd-pro/static/media/logo.56df3013d3993fadbd95e8de57291787.svg",
+    "index.html": "/grd-pro/index.html",
+    "main.47a28f0f.css.map": "/grd-pro/static/css/main.47a28f0f.css.map",
+    "main.9f96a37d.js.map": "/grd-pro/static/js/main.9f96a37d.js.map",
+    "787.d4aba7ab.chunk.js.map": "/grd-pro/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47a28f0f.css",
+    "static/js/main.9f96a37d.js"
+  ]
+}
